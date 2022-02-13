@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Components -->
+    <style name="MoviesAppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <!-- Appbar -->
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.MaterialComponents.Dark.ActionBar" >
+    </style>
+
+    <!-- Toolbar menu -->
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <!-- Contextual action bar -->
+    <style name="contextualAppBar" parent="Widget.AppCompat.ActionMode">
+        <item name="titleTextStyle">?attr/textAppearanceHeadline6</item>
+    </style>
+
+    <!-- TextInputLayout -->
+    <style name="TextField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="hintTextColor">@color/whiteColor</item>
+        <item name="hintTextAppearance">@style/Body2</item>
+        <item name="boxStrokeColor">@color/whiteColor</item>
+    </style>
+
+    <!-- Button -->
+    <style name="Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/secondaryColor</item>
+        <item name="strokeColor">@color/secondaryLightColor</item>
+        <item name="strokeWidth">0.8dp</item>
+        <item name="android:textColor">@color/whiteColor</item>
+        <item name="shapeAppearance">?attr/shapeAppearanceMediumComponent</item>
+    </style>
+
+    <!-- Circle Progress indicator -->
+    <style name="CircleProgressIndicator" parent="Widget.MaterialComponents.ProgressIndicator.Circular.Indeterminate">
+        <item name="indicatorColor">@color/secondaryColor</item>
+    </style>
+</resources>

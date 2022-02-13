@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Customized typography for selected components-->
+
+    <!--Body 1 (MovieItem - details, DetailFragment - details)-->
+    <style name="Body1" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/work_sans</item>
+        <item name="android:textColor">@color/whiteColor</item>
+
+    </style>
+
+    <!-- Body 2 (TextInputLayout Hint) -->
+    <style name="Body2" parent="TextAppearance.MaterialComponents.Body2">
+        <item name="fontFamily">@font/work_sans</item>
+        <item name="android:fontFamily">@font/work_sans</item>
+    </style>
+
+    <!-- Toolbar Titles -->
+    <style name="ToolbarText" parent="TextAppearance.MaterialComponents.Headline6">
+        <item name="fontFamily">@font/work_sans_semibold</item>
+        <item name="android:fontFamily">@font/work_sans_semibold</item>
+    </style>
+
+
+    <!-- DetailFragment - overview -->
+    <style name="OverviewText" parent="TextAppearance.MaterialComponents.Body1">
+        <item name="fontFamily">@font/work_sans_medium</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/primaryTextColor</item>
+    </style>
+
+    <!-- Headline 4 (Drawer - Title) -->
+    <style name="Headline4" parent="TextAppearance.MaterialComponents.Headline4">
+        <item name="fontFamily">@font/work_sans_extrabold</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <!--Headline 5 (MovieItem - title)-->
+    <style name="Headline5" parent="TextAppearance.MaterialComponents.Headline5">
+        <item name="fontFamily">@font/work_sans_bold</item>
+        <item name="android:fontFamily">@font/work_sans_bold</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>

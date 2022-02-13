@@ -1,0 +1,11 @@
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\api\ApiAbstract.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test-common\java\com\charlsgod\moviestest\utils\MockitoExt.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\ui\search\SearchViewModelTest.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\MainCoroutinesRule.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\api\MoviesServiceTest.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\ui\detail\DetailViewModelTest.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\ui\favourites\FavouritesViewModelTest.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test\java\com\charlsgod\moviestest\repository\MovieRepositoryTest.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test-common\java\com\charlsgod\moviestest\utils\DataBindingIdlingResource.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test-common\java\com\charlsgod\moviestest\utils\LiveDataUtils.kt
+C:\Users\charl\StudioProjects\movies-test-rappi\app\src\test-common\java\com\charlsgod\moviestest\utils\TestUtil.kt

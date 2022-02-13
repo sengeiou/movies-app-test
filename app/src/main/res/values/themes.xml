@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="MoviesAppTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Colors-->
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="colorAccent">@color/secondaryColor</item>
+        <item name="colorOnPrimary">@color/primaryTextColor</item>
+        <item name="colorSecondaryVariant">@color/secondaryLightColor</item>
+
+        <!--Drawer-->
+        <item name="windowActionModeOverlay">true</item>
+        <item name="actionModeStyle">@style/contextualAppBar</item>
+        <item name="actionModeCloseDrawable">@drawable/ic_close_24</item>
+
+        <!--Typography-->
+        <item name="android:fontFamily">@font/work_sans_semibold</item>
+        <item name="fontFamily">@font/work_sans_semibold</item>
+    </style>
+</resources>

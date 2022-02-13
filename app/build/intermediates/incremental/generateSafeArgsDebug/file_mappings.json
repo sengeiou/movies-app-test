@@ -1,0 +1,1 @@
+[{"navFile":"src\\main\\res\\navigation\\mobile_navigation.xml","javaFiles":["com.charlsgod.moviestest.ui.detail.DetailFragmentDirections","com.charlsgod.moviestest.ui.detail.DetailFragmentArgs","com.charlsgod.moviestest.ui.search.SearchFragmentDirections","com.charlsgod.moviestest.ui.favourites.FavouritesFragmentDirections"]}]
